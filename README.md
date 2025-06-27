@@ -1,5 +1,5 @@
 ## Goupe
-Goupe font by Jeff Cardinal, Licensed under SIL Open Font License v1.1
+Goupe font by Jeff Cardinal. Licensed under SIL Open Font License v1.1.
 
 Read like "coupe". Goupe is a fun, funky flowing font for all your goopy design needs.
 
